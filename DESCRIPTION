@@ -1,0 +1,19 @@
+Package: ebdmc
+Type: Package
+Title: Exploring Beta Diversity of Microbial Communities
+Version: 0.0.9000
+Authors@R: c(
+    person(
+      "Brennan", "Chapman",
+      email = "get@chapb.me",
+      role = c("aut", "cre")
+    )
+  )
+Description: Tools to calculate and explore beta diversity of microbial 
+    communities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.3

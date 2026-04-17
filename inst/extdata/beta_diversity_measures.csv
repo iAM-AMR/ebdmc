@@ -1,0 +1,47 @@
+﻿measure_raw,measure_safe,vegan_fn,measure_type,measure_included,measure_exclusion_reason,measure_binary_equivalent,measure_binary_equivalent_included
+-3,x3,betadiver,presence-absence,FALSE,Not bound [0-1].,,
+-2,x2,betadiver,presence-absence,TRUE,,,
+-1,x1,betadiver,presence-absence,FALSE,Redundant.,,
+19,x19,betadiver,presence-absence,FALSE,Not bound [0-1].,,
+c,c,betadiver,presence-absence,FALSE,Not bound [0-1].,,
+cc,cc,betadiver,presence-absence,TRUE,,,
+co,co,betadiver,presence-absence,TRUE,,,
+e,e,betadiver,presence-absence,FALSE,Not bound [0-1].,,
+g,g,betadiver,presence-absence,FALSE,Redundant.,,
+gl,gl,betadiver,presence-absence,FALSE,Not bound [0-1]. Not beta diversity.,,
+hk,hk,betadiver,presence-absence,TRUE,,,
+I,I,betadiver,presence-absence,TRUE,,,
+j,j,betadiver,presence-absence,FALSE,Measures similarity.,,
+l,l,betadiver,presence-absence,FALSE,Redundant. Not bound [0-1].,,
+m,m,betadiver,presence-absence,FALSE,Not bound [0-1].,,
+me,me,betadiver,presence-absence,FALSE,Redundant.,,
+r,r,betadiver,presence-absence,TRUE,,,
+rlb,rlb,betadiver,presence-absence,TRUE,,,
+sim,sim,betadiver,presence-absence,TRUE,,,
+sor,sor,betadiver,presence-absence,FALSE,Measures similarity.,,
+t,t,betadiver,presence-absence,TRUE,,,
+w,w,betadiver,presence-absence,TRUE,,,
+wb,wb,betadiver,presence-absence,FALSE,Redundant. Not bound [0-1].,,
+z,z,betadiver,presence-absence,TRUE,,,
+aitchison,aitchison,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+altGower,altGower,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+binomial,binomial,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+bray,bray,vegdist,abundance,TRUE,,TRUE,TRUE
+canberra,canberra,vegdist,abundance,TRUE,,TRUE,TRUE
+cao,cao,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+chao,chao,vegdist,abundance,TRUE,,TRUE,TRUE
+chisq,chisq,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+chord,chord,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+clark,clark,vegdist,abundance,TRUE,,TRUE,TRUE
+euclidean,euclidean,vegdist,abundance,FALSE,Not bound [0-1].,TRUE,FALSE
+gower,gower,vegdist,abundance,TRUE,,TRUE,TRUE
+hellinger,hellinger,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+horn,horn,vegdist,abundance,TRUE,,TRUE,TRUE
+jaccard,jaccard,vegdist,abundance,TRUE,,TRUE,TRUE
+kulczynski,kulczynski,vegdist,abundance,TRUE,,TRUE,TRUE
+mahalanobis,mahalanobis,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+manhattan,manhattan,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+morisita,morisita,vegdist,abundance,TRUE,,FALSE,FALSE
+robust.aitchison,robust.aitchison,vegdist,abundance,FALSE,Not bound [0-1].,FALSE,FALSE
+mountford,mountford,vegdist,presence-absence,FALSE,Not bound [0-1].,FALSE,FALSE
+raup,raup,vegdist,presence-absence,TRUE,,FALSE,FALSE
