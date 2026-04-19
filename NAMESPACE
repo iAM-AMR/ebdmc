@@ -3,6 +3,7 @@
 export(cim_to_count_table_ls)
 export(count_table_to_cdm)
 export(mkmatrix)
+export(print_beta)
 importFrom(dplyr,count)
 importFrom(dplyr,group_split)
 importFrom(dplyr,mutate)
